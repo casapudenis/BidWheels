@@ -16,6 +16,15 @@ builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
 builder.Services.AddScoped<IBrandRepository, BrandRepository>();
 builder.Services.AddScoped<IBrandService, BrandService>();
 
+builder.Services.AddScoped<IColorRepository, ColorRepository>();
+builder.Services.AddScoped<IColorService, ColorService>();
+
+builder.Services.AddScoped<ITransmissionRepository, TransmissionRepository>();
+builder.Services.AddScoped<ITransmissionService, TransmissionService>();
+
+builder.Services.AddScoped<IEngineRepository, EngineRepository>();
+builder.Services.AddScoped<IEngineService, EngineService>();
+
 builder.Services.AddScoped<ILoginService, LoginService>();
 builder.Services.AddScoped<IRegisterService, RegisterService>();
 

@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BidWheels.Controllers
 {
-	[Authorize(Roles = "admin")]
-	public class BrandController : Controller
+    [Authorize]
+    public class BrandController : Controller
 	{
 		private readonly IBrandService _entityService;
 

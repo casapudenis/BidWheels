@@ -6,6 +6,7 @@ public class RegisterModel
 {
 
 	[Required]
+	[StringLength(100, ErrorMessage = "The name must be at least of 2 characters.", MinimumLength = 2)]
 	public string Name { get; set; }
 
 	[Required]

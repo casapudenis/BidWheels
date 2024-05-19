@@ -24,7 +24,9 @@ namespace BidWheels.Models
         }
 
         public DbSet<Brand> Brands { get; set; }
-
+		public DbSet<Color> Colors { get; set; }
+        public DbSet<Transmission> Transmissions { get; set; }
+        public DbSet<Engine> Engines { get; set; }
 
     }
 }
