@@ -56,5 +56,11 @@ namespace BidWheels.Services
 				_repositoryWrapper.Save();
 			}
 		}
-	}
+        public List<Auction> FindByUserId(string userId)
+        {
+            return _repositoryWrapper.AuctionRepository
+                .FindByCondition(a => a.CurrentBidderId == userId)
+                .ToList();
+        }
+    }
 }

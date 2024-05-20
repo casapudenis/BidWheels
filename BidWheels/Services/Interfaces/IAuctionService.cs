@@ -10,5 +10,6 @@ namespace BidWheels.Services.Interfaces
 		void Update(Auction auction);
 		void Delete(Auction auction);
 		void PlaceBid(Bid bid);
-	}
+        List<Auction> FindByUserId(string userId);
+    }
 }

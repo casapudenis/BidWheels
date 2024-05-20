@@ -142,7 +142,7 @@ namespace BidWheels.Controllers
                 return RedirectToAction(nameof(Details), new { id = id });
             }
 
-            if (bidAmount < auction.CurrentBid || bidAmount < auction.StartingPrice)
+            if (bidAmount <= auction.CurrentBid || bidAmount <= auction.StartingPrice)
             {
                 TempData["Error"] = "Your bid is lower than the current bid or the starting price.";
                 return RedirectToAction(nameof(Details), new { id = id });
@@ -161,6 +161,14 @@ namespace BidWheels.Controllers
             TempData["Success"] = "Bid placed successfully!";
             return RedirectToAction(nameof(Details), new { id = id });
         }
+
+		public IActionResult MyAuctions()
+{
+    var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+    var auctions = _auctionService.FindByUserId(userId);
+    return View(auctions);
+}
+
 
     }
 }

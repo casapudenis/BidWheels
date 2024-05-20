@@ -5,10 +5,12 @@
 }
 
 <h1>Auctions</h1>
-
-<p>
-    <a asp-action="Create" class="btn btn-primary">Create New Auction</a>
-</p>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New Auction</a>
+    </p>
+}
 
 <table class="table">
     <thead>
@@ -17,6 +19,7 @@
             <th>@Html.DisplayNameFor(model => model.StartTime)</th>
             <th>@Html.DisplayNameFor(model => model.EndTime)</th>
             <th>@Html.DisplayNameFor(model => model.StartingPrice)</th>
+            <th>@Html.DisplayNameFor(model => model.CurrentBid)</th>
             <th></th>
         </tr>
     </thead>
@@ -28,10 +31,17 @@
                 <td>@Html.DisplayFor(modelItem => item.StartTime)</td>
                 <td>@Html.DisplayFor(modelItem => item.EndTime)</td>
                 <td>@Html.DisplayFor(modelItem => item.StartingPrice)</td>
+                <td>@Html.DisplayFor(modelItem => item.CurrentBid)</td>
                 <td>
-                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                    }|
                     <a asp-action="Details" asp-route-id="@item.Id">Details</a>|
-                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    }
                 </td>
             </tr>
         }
