@@ -26,6 +26,7 @@ namespace BidWheels.Models
 
         public DbSet<Car> Cars { get; set; }
 		public DbSet<Auction> Auctions { get; set; }
+		public DbSet<Bid> Bids { get; set; }
 		public DbSet<Brand> Brands { get; set; }
 		public DbSet<Color> Colors { get; set; }
         public DbSet<Transmission> Transmissions { get; set; }

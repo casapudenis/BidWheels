@@ -13,5 +13,6 @@ namespace BidWheels.Models
 		public int StartingPrice { get; set; }
 		public int? CurrentBid { get; set; }
 		public string? CurrentBidderId { get; set; }
+		public List<Bid>? Bids { get; set; } = [];
 	}
 }

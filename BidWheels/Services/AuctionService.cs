@@ -40,5 +40,21 @@ namespace BidWheels.Services
 			_repositoryWrapper.AuctionRepository.Delete(entity);
 			_repositoryWrapper.Save();
 		}
+
+		public void PlaceBid(Bid bid)
+		{
+			var auction = _repositoryWrapper.AuctionRepository.FindByCondition(a => a.Id == bid.AuctionId).FirstOrDefault();
+
+			if(auction != null && auction.EndTime > DateTime.Now && (auction.CurrentBid == null || bid.Amount > auction.CurrentBid))
+			{
+				auction.CurrentBid = bid.Amount;
+				auction.CurrentBidderId = bid.UserId;
+				auction.Bids.Add(bid);
+
+				_repositoryWrapper.AuctionRepository.Update(auction);
+				_repositoryWrapper.BidRepository.Create(bid);
+				_repositoryWrapper.Save();
+			}
+		}
 	}
 }

@@ -3,6 +3,7 @@ using BidWheels.Services.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Security.Claims;
 
 namespace BidWheels.Controllers
 {
@@ -122,5 +123,44 @@ namespace BidWheels.Controllers
 			}
 			return RedirectToAction(nameof(Index));
 		}
-	}
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult PlaceBid(int id, int bidAmount)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            var auction = _auctionService.FindById(id);
+
+            if (auction == null)
+            {
+                return NotFound();
+            }
+
+            if (auction.EndTime < DateTime.Now)
+            {
+                TempData["Error"] = "Auction has ended. You cannot place a bid.";
+                return RedirectToAction(nameof(Details), new { id = id });
+            }
+
+            if (bidAmount < auction.CurrentBid || bidAmount < auction.StartingPrice)
+            {
+                TempData["Error"] = "Your bid is lower than the current bid or the starting price.";
+                return RedirectToAction(nameof(Details), new { id = id });
+            }
+
+            var bid = new Bid
+            {
+                AuctionId = id,
+                UserId = userId,
+                Amount = bidAmount,
+                BidTime = DateTime.Now
+            };
+
+            _auctionService.PlaceBid(bid);
+
+            TempData["Success"] = "Bid placed successfully!";
+            return RedirectToAction(nameof(Details), new { id = id });
+        }
+
+    }
 }

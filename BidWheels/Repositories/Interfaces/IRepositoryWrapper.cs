@@ -6,6 +6,7 @@ namespace BidWheels.Repositories.Interfaces
 	{
         ICarRepository CarRepository { get; }
 		IAuctionRepository AuctionRepository { get; }
+		IBidRepository BidRepository { get; }
 		IBrandRepository BrandRepository { get; }
 		IColorRepository ColorRepository { get; }
         IEngineRepository EngineRepository { get; }

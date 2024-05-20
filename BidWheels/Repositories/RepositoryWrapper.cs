@@ -9,6 +9,7 @@ namespace BidWheels.Repositories
         private ICarRepository? _carRepository;
         private IAuctionRepository? _auctionRepository;
         private IBrandRepository? _brandRepository;
+        private IBidRepository? _bidRepository;
 		private IColorRepository? _colorRepository;
 		private ITransmissionRepository? _transmissionRepository;
 		private IEngineRepository? _engineRepository;
@@ -25,6 +26,18 @@ namespace BidWheels.Repositories
                 return _carRepository;
             }
         }
+		public IBidRepository BidRepository
+		{
+			get
+			{
+				if (_bidRepository == null)
+				{
+					_bidRepository = new BidRepository(_applicationDbContext);
+				}
+
+				return _bidRepository;
+			}
+		}
 		public IAuctionRepository AuctionRepository
 		{
 			get

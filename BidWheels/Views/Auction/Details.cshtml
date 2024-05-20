@@ -1,0 +1,50 @@
+﻿@model BidWheels.Models.Auction
+
+@{
+    ViewData["Title"] = "Auction Details";
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["Success"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>@TempData["Error"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<h1>@Model.Car.Model - Auction Details</h1>
+
+<div>
+    <dl>
+        <dt>Car</dt>
+        <dd>@Model.Car.Model</dd>
+        <dt>Start Time</dt>
+        <dd>@Model.StartTime</dd>
+        <dt>End Time</dt>
+        <dd>@Model.EndTime</dd>
+        <dt>Starting Price</dt>
+        <dd>@Model.StartingPrice</dd>
+        <dt>Current Bid</dt>
+        <dd>@(Model.CurrentBid.HasValue ? Model.CurrentBid.Value.ToString("C2") : "No bids yet")</dd>
+        <dt>Current Winner</dt>
+        <dd>@(Model.CurrentBidderId != null ? Model.CurrentBidderId : "No bids yet")</dd>
+    </dl>
+    <h2>Place a Bid</h2>
+    <form asp-action="PlaceBid" method="post">
+        <input type="hidden" name="id" value="@Model.Id" />
+        <div class="form-group">
+            <label asp-for="CurrentBid" class="control-label">Bid Amount</label>
+            <input asp-for="CurrentBid" class="form-control" name="bidAmount" />
+        </div>
+        <input type="submit" value="Place Bid" class="btn btn-primary" />
+    </form>
+
+    <a asp-action="Index">Back to List</a>
+</div>
+

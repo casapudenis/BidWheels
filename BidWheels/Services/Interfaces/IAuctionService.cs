@@ -9,5 +9,6 @@ namespace BidWheels.Services.Interfaces
 		void Create(Auction auction);
 		void Update(Auction auction);
 		void Delete(Auction auction);
+		void PlaceBid(Bid bid);
 	}
 }
