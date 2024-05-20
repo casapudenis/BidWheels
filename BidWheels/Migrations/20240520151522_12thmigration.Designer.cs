@@ -4,6 +4,7 @@ using BidWheels.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BidWheels.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240520151522_12thmigration")]
+    partial class _12thmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -33,8 +36,8 @@ namespace BidWheels.Migrations
                     b.Property<int>("CarId")
                         .HasColumnType("int");
 
-                    b.Property<int?>("CurrentBid")
-                        .HasColumnType("int");
+                    b.Property<decimal?>("CurrentBid")
+                        .HasColumnType("decimal(18,2)");
 
                     b.Property<string>("CurrentBidderId")
                         .HasColumnType("nvarchar(max)");
@@ -45,8 +48,8 @@ namespace BidWheels.Migrations
                     b.Property<DateTime>("StartTime")
                         .HasColumnType("datetime2");
 
-                    b.Property<int>("StartingPrice")
-                        .HasColumnType("int");
+                    b.Property<decimal>("StartingPrice")
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
@@ -160,8 +163,8 @@ namespace BidWheels.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("Volume")
-                        .HasColumnType("int");
+                    b.Property<double>("Volume")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -291,13 +294,13 @@ namespace BidWheels.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "9931bc63-417c-45c5-9ccb-d398295b3cfa",
+                            Id = "f60b62aa-d23e-445b-a42b-f2dd45ab3469",
                             Name = "admin",
                             NormalizedName = "admin"
                         },
                         new
                         {
-                            Id = "8686b800-0048-47cf-88e9-c83abbc9d4a9",
+                            Id = "fb1fec77-4bd2-4c3c-8520-7f79f89d5742",
                             Name = "client",
                             NormalizedName = "client"
                         });

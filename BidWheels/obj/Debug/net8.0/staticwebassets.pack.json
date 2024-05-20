@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\BidWheels.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\wwwroot\\cars\\20240520161634498.jpg",
+      "PackagePath": "staticwebassets\\cars\\20240520161634498.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\wwwroot\\cars\\20240520165122685.jpg",
+      "PackagePath": "staticwebassets\\cars\\20240520165122685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\wwwroot\\cars\\20240520165131017.jpg",
+      "PackagePath": "staticwebassets\\cars\\20240520165131017.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\wwwroot\\cars\\20240520180934742.jpg",
+      "PackagePath": "staticwebassets\\cars\\20240520180934742.jpg"
+    },
+    {
       "Id": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
