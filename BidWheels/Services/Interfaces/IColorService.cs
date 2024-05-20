@@ -2,12 +2,12 @@
 
 namespace BidWheels.Services.Interfaces
 {
-	public interface IColorService
+	public interface ICarService
 	{
-		List<Color> FindAll();
-		Color? FindById(int id);
-		void Create(Color entity);
-		void Update(Color entity);
-		void Delete(Color entity);
+		List<Car> FindAll();
+		Car? FindById(int id);
+		void Create(Car entity);
+		void Update(Car entity);
+		void Delete(Car entity);
 	}
 }

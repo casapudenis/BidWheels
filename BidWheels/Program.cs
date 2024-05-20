@@ -13,6 +13,9 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IRepositoryWrapper, RepositoryWrapper>();
 
+builder.Services.AddScoped<ICarRepository, CarRepository>();
+builder.Services.AddScoped<ICarService, CarService>();
+
 builder.Services.AddScoped<IBrandRepository, BrandRepository>();
 builder.Services.AddScoped<IBrandService, BrandService>();
 

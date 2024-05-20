@@ -4,7 +4,8 @@ namespace BidWheels.Repositories.Interfaces
 {
 	public interface IRepositoryWrapper
 	{
-		IBrandRepository BrandRepository { get; }
+        ICarRepository CarRepository { get; }
+        IBrandRepository BrandRepository { get; }
 		IColorRepository ColorRepository { get; }
         IEngineRepository EngineRepository { get; }
         ITransmissionRepository TransmissionRepository { get; }

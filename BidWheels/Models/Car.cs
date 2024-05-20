@@ -1,4 +1,6 @@
-﻿namespace BidWheels.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace BidWheels.Models
 {
 	public class Car
 	{
@@ -18,5 +20,7 @@
 
 		public int ColorId { get; set; }
 		public Color? Color { get; set; }
-	}
+        public string ImageFileName { get; set; } = "";
+        [NotMapped] public IFormFile? ImageFile { get; set; }
+    }
 }

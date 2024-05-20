@@ -6,12 +6,25 @@ namespace BidWheels.Repositories
 	public class RepositoryWrapper : IRepositoryWrapper
 	{
 		private ApplicationDbContext _applicationDbContext;
-		private IBrandRepository? _brandRepository;
+        private ICarRepository? _carRepository;
+        private IBrandRepository? _brandRepository;
 		private IColorRepository? _colorRepository;
 		private ITransmissionRepository? _transmissionRepository;
 		private IEngineRepository? _engineRepository;
 
-		public IBrandRepository BrandRepository
+        public ICarRepository CarRepository
+        {
+            get
+            {
+                if (_carRepository == null)
+                {
+                    _carRepository = new CarRepository(_applicationDbContext);
+                }
+
+                return _carRepository;
+            }
+        }
+        public IBrandRepository BrandRepository
 		{
 			get
 			{

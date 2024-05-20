@@ -23,6 +23,7 @@ namespace BidWheels.Models
             builder.Entity<IdentityRole>().HasData(admin, client);
         }
 
+        public DbSet<Car> Cars { get; set; }
         public DbSet<Brand> Brands { get; set; }
 		public DbSet<Color> Colors { get; set; }
         public DbSet<Transmission> Transmissions { get; set; }

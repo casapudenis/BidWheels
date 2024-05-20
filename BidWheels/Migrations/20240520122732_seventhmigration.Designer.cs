@@ -4,6 +4,7 @@ using BidWheels.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BidWheels.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    partial class ApplicationDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240520122732_seventhmigration")]
+    partial class seventhmigration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -59,10 +62,6 @@ namespace BidWheels.Migrations
 
                     b.Property<int>("EngineId")
                         .HasColumnType("int");
-
-                    b.Property<string>("ImageFileName")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Model")
                         .IsRequired()
@@ -258,13 +257,13 @@ namespace BidWheels.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "ba963ace-bd9b-4bd2-b3c1-7dbcfb5e891f",
+                            Id = "80cb6037-a622-4139-80ef-172944928a7a",
                             Name = "admin",
                             NormalizedName = "admin"
                         },
                         new
                         {
-                            Id = "7d542b7e-82ab-43a4-b429-530e46ac388c",
+                            Id = "66040507-5d63-42f3-bec4-4d8611870e1b",
                             Name = "client",
                             NormalizedName = "client"
                         });
