@@ -10,9 +10,11 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-black border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BidWheels</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <img src="~/images/logo.png" alt="BidWheels Logo" style="height: 40px;">
+                </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -20,34 +22,34 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-white py-2" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            <a class="nav-link text-white py-2" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Auction" asp-action="Index">Auctions</a>
+                            <a class="nav-link text-white py-2" asp-area="" asp-controller="Auction" asp-action="Index">Auctions</a>
                         </li>
                         @if (User.IsInRole("admin"))
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Brand" asp-action="Index">Brands</a>
+                                <a class="nav-link text-white py-2" asp-area="" asp-controller="Brand" asp-action="Index">Brands</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Color" asp-action="Index">Colors</a>
+                                <a class="nav-link text-white py-2" asp-area="" asp-controller="Color" asp-action="Index">Colors</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Engine" asp-action="Index">Engine</a>
+                                <a class="nav-link text-white py-2" asp-area="" asp-controller="Engine" asp-action="Index">Engine</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Transmission" asp-action="Index">Transmission</a>
+                                <a class="nav-link text-white py-2" asp-area="" asp-controller="Transmission" asp-action="Index">Transmission</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Car" asp-action="Index">Car</a>
+                                <a class="nav-link text-white py-2" asp-area="" asp-controller="Car" asp-action="Index">Car</a>
                             </li>
                         }
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Auction" asp-action="MyAuctions">Winning Auctions</a>
+                            <a class="nav-link text-white py-2" asp-area="" asp-controller="Auction" asp-action="MyAuctions">Winning Auctions</a>
                         </li>
                     </ul>
                     <partial name="_LoginPartial" />
@@ -60,12 +62,6 @@
             @RenderBody()
         </main>
     </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - BidWheels - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

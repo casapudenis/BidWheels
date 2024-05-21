@@ -1,22 +1,50 @@
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
-}
-
+﻿/* Stil pentru întregul corp al paginii */
 body {
-  margin-bottom: 60px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #111;
+    color: #fff;
+    background-image: url('https://abt-america.com/fileadmin/_processed_/3/8/csm_USA_RS_performance_004_ed58a199dd.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Stiluri pentru butoanele din bara de navigație */
+.navbar-nav .nav-link,
+.navbar-toggler {
+    background-color: #000000; /* Fundal negru */
+    color: #fff; /* Text alb */
+    border: none; /* Eliminarea marginilor */
+    padding: 5px 10px; /* Dimensiuni ale butoanelor */
+    border-radius: 5px; /* Colțuri curbate */
+    cursor: pointer; /* Indicator de cursor */
+    transition: background-color 0.3s ease; /* Tranziție la hover */
+    margin: 0 10px; /* Margini între butoane */
+}
+
+    /* Efect de hover pentru butoanele din bara de navigație */
+    .navbar-nav .nav-link:hover,
+    .navbar-toggler:hover .navbar-toggler-icon {
+        background-color: #005588; /* Albastru la hover */
+    }
+
+    /* Stil pentru butonul activ din bara de navigație */
+    .navbar-nav .nav-link.active {
+        background-color: #0077b3; /* Albastru mai deschis pentru butonul activ */
+    }
+
+/* Stil pentru logo */
+.navbar-brand {
+    color: #fff; /* Text alb */
+}
+
+/* Stil pentru textul din bara de navigație */
+.navbar-nav .nav-link {
+    color: #fff; /* Text alb */
+}
+
+/* Ajustare înălțime butoane navbar */
+.navbar-nav .nav-link,
+.navbar-toggler {
+    padding: 4px 5px; /* Dimensiuni reduse pentru butoane */
 }
