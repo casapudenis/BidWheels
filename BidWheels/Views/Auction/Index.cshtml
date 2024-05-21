@@ -12,14 +12,16 @@
     </p>
 }
 
-<table class="table">
+<table class="table table-striped">
     <thead>
         <tr>
-            <th>@Html.DisplayNameFor(model => model.Car.Model)</th>
-            <th>@Html.DisplayNameFor(model => model.StartTime)</th>
-            <th>@Html.DisplayNameFor(model => model.EndTime)</th>
-            <th>@Html.DisplayNameFor(model => model.StartingPrice)</th>
-            <th>@Html.DisplayNameFor(model => model.CurrentBid)</th>
+            <th>Image</th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Start Time</th>
+            <th>End Time</th>
+            <th>Starting Price</th>
+            <th>Current Bid</th>
             <th></th>
         </tr>
     </thead>
@@ -27,17 +29,26 @@
         @foreach (var item in Model)
         {
             <tr>
+                <td><img src="@Url.Content("~/cars/" + item.Car.ImageFileName)" alt="Car Image" class="img-thumbnail" style="max-width: 150px; height: auto;" /></td>
+                <td>@Html.DisplayFor(modelItem => item.Car.Brand.Name)</td>
                 <td>@Html.DisplayFor(modelItem => item.Car.Model)</td>
                 <td>@Html.DisplayFor(modelItem => item.StartTime)</td>
                 <td>@Html.DisplayFor(modelItem => item.EndTime)</td>
-                <td>@Html.DisplayFor(modelItem => item.StartingPrice)</td>
-                <td>@Html.DisplayFor(modelItem => item.CurrentBid)</td>
+                <td>@Html.DisplayFor(modelItem => item.StartingPrice) EUR</td>
+                <td>@if (item.CurrentBid > 1)
+                    {
+                        @Html.DisplayFor(modelItem => item.CurrentBid)
+                    }
+                    else
+                    {
+                        @Html.DisplayFor(modelItem => item.StartingPrice)
+                    } EUR</td>
                 <td>
                     @if (User.IsInRole("Admin"))
                     {
                         <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
-                    }|
-                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>|
+                    }
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a>
                     @if (User.IsInRole("Admin"))
                     {
                         <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>

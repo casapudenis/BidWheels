@@ -16,8 +16,10 @@
 
 <table class="table">
 	<tr>
-		<th>Model</th>
 		<th>Brand</th>
+		<th>Model</th>
+		<th>Year</th>
+		<th>Mileage</th>
 		<th>Engine</th>
 		<th>Transmission</th>
 		<th>Color</th>
@@ -28,10 +30,16 @@
 	{
 		<tr>
 			<td>
+				@Html.DisplayFor(modelItem => item.Brand.Name)
+			</td>
+			<td>
 				@Html.DisplayFor(modelItem => item.Model)
 			</td>
 			<td>
-				@Html.DisplayFor(modelItem => item.Brand.Name)
+				@Html.DisplayFor(modelItem => item.Year)
+			</td>
+			<td>
+				@Html.DisplayFor(modelItem => item.Mileage)
 			</td>
 			<td>
 				@Html.DisplayFor(modelItem => item.Engine.Name)

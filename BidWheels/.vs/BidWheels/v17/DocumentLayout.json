@@ -3,40 +3,192 @@
   "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\engine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\engine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\transmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\transmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\auctionsearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\auctionsearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\myauctions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\myauctions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\setpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\transmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\transmissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\enginecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,72 +199,60 @@
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\myauctions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\myauctions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\transmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\transmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\itransmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\itransmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\engine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\engine\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\auction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\auction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\interfaces\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,38 +267,6 @@
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\transmission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -167,48 +275,12 @@
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\brand\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\itransmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\itransmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\engineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\iengineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:models\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\car\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\brand\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -241,10 +313,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\interfaces\\itransmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\interfaces\\itransmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\enginerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\color\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -283,16 +351,8 @@
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:services\\transmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\transmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\transmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\migrations\\20240519163533_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:migrations\\20240519163533_thirdmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\services\\registerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -311,10 +371,6 @@
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:migrations\\20240520175017_14thmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|c:\\users\\denis\\desktop\\paw\\bidwheels\\repositories\\interfaces\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7032F00-B48A-4B42-A495-5EF5D380473C}|BidWheels.csproj|solutionrelative:repositories\\interfaces\\iauctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -326,167 +382,375 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TransmissionController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\TransmissionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransmissionController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\TransmissionController.cs",
-              "RelativeToolTip": "Controllers\\TransmissionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "DocumentIndex": 3,
+              "Title": "AuctionSearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\AuctionSearchViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AuctionSearchViewModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\AuctionSearchViewModel.cs",
+              "RelativeToolTip": "Models\\AuctionSearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T19:04:56.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuctionController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\AuctionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuctionController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\AuctionController.cs",
-              "RelativeToolTip": "Controllers\\AuctionController.cs",
-              "ViewState": "AQIAAIAAAAAAAAAAAAA0wJQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:03:59.951Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T18:24:39.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:30:19.388Z",
+              "WhenOpened": "2024-05-21T15:35:40.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Engine\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Engine\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:31:18.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auction\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Auction\\Edit.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T14:29:51.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auction\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Details.cshtml",
-              "RelativeToolTip": "Views\\Auction\\Details.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T17:49:23.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auction\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Index.cshtml",
-              "RelativeToolTip": "Views\\Auction\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T14:25:46.975Z",
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Color.cs",
+              "RelativeDocumentMoniker": "Models\\Color.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Color.cs",
+              "RelativeToolTip": "Models\\Color.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:25:18.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Car.cs",
+              "RelativeToolTip": "Models\\Car.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:41:55.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "Models\\Auction.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Auction.cs",
+              "RelativeToolTip": "Models\\Auction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T13:58:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAApwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T19:04:51.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\CarController.cs",
-              "RelativeToolTip": "Controllers\\CarController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:28:33.713Z",
+              "WhenOpened": "2024-05-19T17:35:10.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:01:53.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowEsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T18:24:39.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Engine.cs",
+              "RelativeDocumentMoniker": "Models\\Engine.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Engine.cs",
+              "RelativeToolTip": "Models\\Engine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:05:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T15:43:21.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "BrandController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\BrandController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\BrandController.cs",
-              "RelativeToolTip": "Controllers\\BrandController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T19:02:22.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "MyAuctions.cshtml",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\MyAuctions.cshtml",
               "RelativeDocumentMoniker": "Views\\Auction\\MyAuctions.cshtml",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\MyAuctions.cshtml",
               "RelativeToolTip": "Views\\Auction\\MyAuctions.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABTAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-20T18:52:29.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Brand.cs",
+              "RelativeToolTip": "Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:25:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Bid.cs",
+              "RelativeToolTip": "Models\\Bid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:19:48.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:54:38.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA2wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:51:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:58:45.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:51:53.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:13:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:10:46.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:09:41.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:06:20.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T14:49:50.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:05:45.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwEgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:48:06.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:05:42.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:05:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T15:04:33.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Transmission.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Transmission.cs",
+              "RelativeDocumentMoniker": "Models\\Transmission.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Transmission.cs",
+              "RelativeToolTip": "Models\\Transmission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:05:19.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -499,85 +763,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ColorController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\ColorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ColorController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\ColorController.cs",
-              "RelativeToolTip": "Controllers\\ColorController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:23:20.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EngineController.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\EngineController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EngineController.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\EngineController.cs",
-              "RelativeToolTip": "Controllers\\EngineController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:24:17.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\RegisterModel.cs",
               "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\RegisterModel.cs",
               "RelativeToolTip": "Models\\RegisterModel.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAsAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T05:26:16.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\BrandService.cs",
-              "RelativeDocumentMoniker": "Services\\BrandService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\BrandService.cs",
-              "RelativeToolTip": "Services\\BrandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:19:12.208Z",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auction\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Details.cshtml",
+              "RelativeToolTip": "Views\\Auction\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T17:49:23.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Index.cshtml",
+              "RelativeToolTip": "Views\\Auction\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:25:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "Controllers\\AuctionController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAUwKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:03:59.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "AuctionService.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\AuctionService.cs",
               "RelativeDocumentMoniker": "Services\\AuctionService.cs",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\AuctionService.cs",
               "RelativeToolTip": "Services\\AuctionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T14:05:56.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Car\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Index.cshtml",
-              "RelativeToolTip": "Views\\Car\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:12:54.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Auction\\Create.cshtml",
@@ -590,7 +841,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auction\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Auction\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:30:11.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Car\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Car\\Edit.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAwwEIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:08:52.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Car\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Create.cshtml",
+              "RelativeToolTip": "Views\\Car\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T11:56:16.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Car\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Car\\Delete.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:02:02.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\CarService.cs",
+              "RelativeToolTip": "Services\\CarService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:26:26.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EngineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\EngineRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EngineRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\EngineRepository.cs",
+              "RelativeToolTip": "Repositories\\EngineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:17:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Car\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Index.cshtml",
+              "RelativeToolTip": "Views\\Car\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T12:12:54.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:28:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "IAuctionService.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IAuctionService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IAuctionService.cs",
@@ -603,632 +958,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Auction.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Auction.cs",
-              "RelativeDocumentMoniker": "Models\\Auction.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Auction.cs",
-              "RelativeToolTip": "Models\\Auction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T13:58:51.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Brand.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Brand.cs",
-              "RelativeDocumentMoniker": "Models\\Brand.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Brand.cs",
-              "RelativeToolTip": "Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:25:26.718Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Auction\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Auction\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAkwB0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T14:30:11.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAiwEgAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:48:06.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Bid.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Bid.cs",
-              "RelativeDocumentMoniker": "Models\\Bid.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Bid.cs",
-              "RelativeToolTip": "Models\\Bid.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:19:48.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BidRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BidRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BidRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BidRepository.cs",
-              "RelativeToolTip": "Repositories\\BidRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:23:48.71Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 76,
-              "Title": "20240520175017_14thmigration.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240520175017_14thmigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240520175017_14thmigration.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240520175017_14thmigration.cs",
-              "RelativeToolTip": "Migrations\\20240520175017_14thmigration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:50:18.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "RepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryWrapper.cs",
-              "RelativeToolTip": "Repositories\\RepositoryWrapper.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwDMAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:58:18.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:22:02.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IBidRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IBidRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBidRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IBidRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IBidRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T17:23:19.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "LoginModel.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\LoginModel.cs",
-              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\LoginModel.cs",
-              "RelativeToolTip": "Models\\LoginModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T15:43:21.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Models\\Car.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Car.cs",
-              "RelativeToolTip": "Models\\Car.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywA8AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:41:55.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Transmission.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Transmission.cs",
-              "RelativeDocumentMoniker": "Models\\Transmission.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Transmission.cs",
-              "RelativeToolTip": "Models\\Transmission.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:05:19.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Engine.cs",
-              "RelativeDocumentMoniker": "Models\\Engine.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Engine.cs",
-              "RelativeToolTip": "Models\\Engine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:05:14.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IBrandService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IBrandService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IBrandService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IBrandService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IBrandService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:05:11.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "BrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BrandRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BrandRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BrandRepository.cs",
-              "RelativeToolTip": "Repositories\\BrandRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:58:25.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAB0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:35:10.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Car\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Car\\Delete.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCcAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:02:02.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CarService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\CarService.cs",
-              "RelativeDocumentMoniker": "Services\\CarService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\CarService.cs",
-              "RelativeToolTip": "Services\\CarService.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwCsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:26:26.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\ColorService.cs",
-              "RelativeDocumentMoniker": "Services\\ColorService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\ColorService.cs",
-              "RelativeToolTip": "Services\\ColorService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:18:47.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Brand\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Brand\\Delete.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T15:01:23.087Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 44,
               "Title": "AuctionRepository.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\AuctionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\AuctionRepository.cs",
               "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\AuctionRepository.cs",
               "RelativeToolTip": "Repositories\\AuctionRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:09:00.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 78,
-              "Title": "IAuctionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IAuctionRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAuctionRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IAuctionRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IAuctionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T14:08:52.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ICarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ICarRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICarRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ICarRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ICarRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:20:11.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "Repositories\\CarRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:20:52.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\ColorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ColorRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\ColorRepository.cs",
-              "RelativeToolTip": "Repositories\\ColorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:21:23.343Z"
+              "WhenOpened": "2024-05-20T14:09:00.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
-              "Title": "EngineService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\EngineService.cs",
-              "RelativeDocumentMoniker": "Services\\EngineService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\EngineService.cs",
-              "RelativeToolTip": "Services\\EngineService.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAjAAAA",
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:22:42.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ITransmissionService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ITransmissionService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ITransmissionService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ITransmissionService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ITransmissionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:48:41.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ILoginService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ILoginService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ILoginService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ILoginService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:44:13.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IEngineService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IEngineService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IEngineService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IEngineService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IEngineService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:22:01.493Z"
+              "WhenOpened": "2024-05-21T12:01:59.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IColorService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IColorService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IColorService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IColorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "Controllers\\ColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:18:06.942Z"
+              "WhenOpened": "2024-05-19T16:23:20.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Color.cs",
-              "RelativeDocumentMoniker": "Models\\Color.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Models\\Color.cs",
-              "RelativeToolTip": "Models\\Color.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:25:18.967Z"
+              "WhenOpened": "2024-05-15T19:02:22.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "IEngineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IEngineRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEngineRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IEngineRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IEngineRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "DocumentIndex": 46,
+              "Title": "TransmissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\TransmissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransmissionController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\TransmissionController.cs",
+              "RelativeToolTip": "Controllers\\TransmissionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:13:38.663Z"
+              "WhenOpened": "2024-05-20T19:04:56.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Brand\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Create.cshtml",
-              "RelativeToolTip": "Views\\Brand\\Create.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:27:09.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Car\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Create.cshtml",
-              "RelativeToolTip": "Views\\Car\\Create.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADMAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T11:56:16.389Z"
+              "DocumentIndex": 47,
+              "Title": "EngineController.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\EngineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EngineController.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Controllers\\EngineController.cs",
+              "RelativeToolTip": "Controllers\\EngineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:24:17.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Car\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Car\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Car\\Edit.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAgwDQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-20T12:08:52.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Engine\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Index.cshtml",
-              "RelativeToolTip": "Views\\Engine\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:32:28.928Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "IColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IColorRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IColorRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IColorRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IColorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Repositories\\RepositoryWrapper.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAzwDMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:21:19.535Z"
+              "WhenOpened": "2024-05-15T18:58:18.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Engine\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Create.cshtml",
-              "RelativeToolTip": "Views\\Engine\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:27:44.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Engine\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Engine\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:29:23.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:58:21.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ITransmissionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ITransmissionRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITransmissionRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ITransmissionRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\ITransmissionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:36:05.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "EngineRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\EngineRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\EngineRepository.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\EngineRepository.cs",
-              "RelativeToolTip": "Repositories\\EngineRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:17:27.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Color\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Index.cshtml",
-              "RelativeToolTip": "Views\\Color\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:29:01.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Color\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Color\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:28:33.579Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Color\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Color\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:28:13.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Color\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Create.cshtml",
-              "RelativeToolTip": "Views\\Color\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:27:29.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Transmission\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Transmission\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:04:27.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Transmission\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Create.cshtml",
-              "RelativeToolTip": "Views\\Transmission\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:02:28.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Transmission\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Transmission\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:03:49.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Transmission\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Index.cshtml",
-              "RelativeToolTip": "Views\\Transmission\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T18:05:38.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
-              "Title": "TransmissionService.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\TransmissionService.cs",
-              "RelativeDocumentMoniker": "Services\\TransmissionService.cs",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\TransmissionService.cs",
-              "RelativeToolTip": "Services\\TransmissionService.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:49:32.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 51,
               "Title": "TransmissionRepository.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\TransmissionRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\TransmissionRepository.cs",
@@ -1236,11 +1057,493 @@
               "RelativeToolTip": "Repositories\\TransmissionRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:37:46.145Z"
+              "WhenOpened": "2024-05-19T17:37:46.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ITransmissionService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ITransmissionService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ITransmissionService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ITransmissionService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ITransmissionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:48:41.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ILoginService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ILoginService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:44:13.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IEngineService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IEngineService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IEngineService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IEngineService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IEngineService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:22:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICarService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:18:06.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\Interfaces\\IBrandService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:05:11.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Repositories\\CarRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:20:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T11:20:11.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Auction\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Auction\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Auction\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T14:29:51.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Engine\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Engine\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:31:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\BrandService.cs",
+              "RelativeDocumentMoniker": "Services\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\BrandService.cs",
+              "RelativeToolTip": "Services\\BrandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:19:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "BidRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BidRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BidRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BidRepository.cs",
+              "RelativeToolTip": "Repositories\\BidRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:23:48.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240520175017_14thmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240520175017_14thmigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240520175017_14thmigration.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240520175017_14thmigration.cs",
+              "RelativeToolTip": "Migrations\\20240520175017_14thmigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:50:18.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IRepositoryWrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:22:02.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IBidRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IBidRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBidRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IBidRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBidRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:23:19.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\BrandRepository.cs",
+              "RelativeToolTip": "Repositories\\BrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:58:25.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\ColorService.cs",
+              "RelativeDocumentMoniker": "Services\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\ColorService.cs",
+              "RelativeToolTip": "Services\\ColorService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:18:47.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T15:01:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "IAuctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IAuctionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IAuctionRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IAuctionRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IAuctionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:08:52.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\ColorRepository.cs",
+              "RelativeToolTip": "Repositories\\ColorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:21:23.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "EngineService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\EngineService.cs",
+              "RelativeDocumentMoniker": "Services\\EngineService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\EngineService.cs",
+              "RelativeToolTip": "Services\\EngineService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:22:42.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IEngineRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IEngineRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IEngineRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IEngineRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IEngineRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:13:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Brand\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Brand\\Create.cshtml",
+              "RelativeToolTip": "Views\\Brand\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:27:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Engine\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Index.cshtml",
+              "RelativeToolTip": "Views\\Engine\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:32:28.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IColorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:21:19.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 75,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Engine\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Create.cshtml",
+              "RelativeToolTip": "Views\\Engine\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:27:44.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Engine\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Engine\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Engine\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:29:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositories\\RepositoryBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:58:21.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ITransmissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ITransmissionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\ITransmissionRepository.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Repositories\\Interfaces\\ITransmissionRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\ITransmissionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:36:05.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Color\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Index.cshtml",
+              "RelativeToolTip": "Views\\Color\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:29:01.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Color\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Color\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:28:33.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Color\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Color\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:28:13.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Color\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Color\\Create.cshtml",
+              "RelativeToolTip": "Views\\Color\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T16:27:29.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transmission\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Transmission\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:04:27.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transmission\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Create.cshtml",
+              "RelativeToolTip": "Views\\Transmission\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:02:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transmission\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Transmission\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:03:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transmission\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Transmission\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transmission\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:05:38.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "TransmissionService.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\TransmissionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransmissionService.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\TransmissionService.cs",
+              "RelativeToolTip": "Services\\TransmissionService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:49:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
               "Title": "20240519170617_forthmigration.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240519170617_forthmigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240519170617_forthmigration.cs",
@@ -1248,11 +1551,12 @@
               "RelativeToolTip": "Migrations\\20240519170617_forthmigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T17:06:17.877Z"
+              "WhenOpened": "2024-05-19T17:06:17.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 87,
               "Title": "20240519163533_thirdmigration.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Migrations\\20240519163533_thirdmigration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240519163533_thirdmigration.cs",
@@ -1260,23 +1564,12 @@
               "RelativeToolTip": "Migrations\\20240519163533_thirdmigration.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T16:35:33.538Z"
+              "WhenOpened": "2024-05-19T16:35:33.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-19T16:51:53.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 89,
               "Title": "LoginService.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\LoginService.cs",
               "RelativeDocumentMoniker": "Services\\LoginService.cs",
@@ -1284,11 +1577,12 @@
               "RelativeToolTip": "Services\\LoginService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:44:24.87Z"
+              "WhenOpened": "2024-05-11T15:44:24.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 88,
               "Title": "RegisterService.cs",
               "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\PAW\\BidWheels\\Services\\RegisterService.cs",
               "RelativeDocumentMoniker": "Services\\RegisterService.cs",
@@ -1296,7 +1590,8 @@
               "RelativeToolTip": "Services\\RegisterService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAlwBcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T05:16:58.162Z"
+              "WhenOpened": "2024-05-16T05:16:58.162Z",
+              "EditorCaption": ""
             }
           ]
         }

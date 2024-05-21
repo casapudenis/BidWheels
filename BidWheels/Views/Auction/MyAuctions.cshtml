@@ -4,13 +4,14 @@
     ViewData["Title"] = "My Auctions";
 }
 
-<h1>My Auctions</h1>
+<h1>My winning auctions</h1>
 
 @if (Model.Count > 0)
 {
     <table class="table">
         <thead>
             <tr>
+                <th>Image</th>
                 <th>Car</th>
                 <th>Start Time</th>
                 <th>End Time</th>
@@ -23,12 +24,14 @@
             @foreach (var auction in Model)
             {
                 <tr>
+                    <td><img src="@Url.Content("~/cars/" + auction.Car.ImageFileName)" alt="Car Image" class="img-thumbnail" style="max-width: 150px; height: auto;" /></td>
                     <td>@auction.Car.Model</td>
                     <td>@auction.StartTime</td>
                     <td>@auction.EndTime</td>
-                    <td>@auction.StartingPrice</td>
-                    <td>@(auction.CurrentBid.HasValue ? auction.CurrentBid.Value.ToString("C2") : "No bids yet")</td>
-                    <td>@(auction.CurrentBidderId != null ? auction.CurrentBidderId : "No bids yet")</td>
+                    <td>@auction.StartingPrice EUR</td>
+                    <td>@(auction.CurrentBid.HasValue ? auction.CurrentBid.Value+" EUR" : "No bids yet")</td>
+                    <td>YOU</td>
+                    <td><a asp-action="Details" asp-route-id="@auction.Id">Details</a></td>
                 </tr>
             }
         </tbody>
@@ -38,5 +41,3 @@ else
 {
     <p>No auctions found.</p>
 }
-
-<a asp-action="Index">Back to List</a>

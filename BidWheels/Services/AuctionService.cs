@@ -1,6 +1,7 @@
 ﻿using BidWheels.Models;
 using BidWheels.Repositories.Interfaces;
 using BidWheels.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace BidWheels.Services
 {
@@ -15,12 +16,28 @@ namespace BidWheels.Services
 
 		public List<Auction> FindAll()
 		{
-			return _repositoryWrapper.AuctionRepository.FindAll().ToList();
+			return _repositoryWrapper.AuctionRepository.FindAll().Include(a => a.Car)
+															.ThenInclude(c => c.Brand)
+															.Include(a => a.Car)
+															.ThenInclude(c => c.Engine)
+															.Include(a => a.Car)
+															.ThenInclude(c => c.Transmission)
+															.Include(a => a.Car)
+															.ThenInclude(c => c.Color)
+															.ToList();
 		}
-
 		public Auction? FindById(int id)
 		{
-			return _repositoryWrapper.AuctionRepository.FindByCondition(e => e.Id == id).FirstOrDefault();
+			return _repositoryWrapper.AuctionRepository.FindByCondition(e => e.Id == id)
+														.Include(a => a.Car)
+														.ThenInclude(c => c.Brand)
+														.Include(a => a.Car)
+														.ThenInclude(c => c.Engine)
+														.Include(a => a.Car)
+														.ThenInclude(c => c.Transmission)
+														.Include(a => a.Car)
+														.ThenInclude(c => c.Color)
+														.FirstOrDefault();
 		}
 
 		public void Create(Auction entity)

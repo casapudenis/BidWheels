@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BidWheels.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     public class CarController : Controller
     {
         private readonly ICarService _carService;
@@ -44,7 +44,7 @@ namespace BidWheels.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create([Bind("Id,Model,Year,BrandId,EngineId,TransmissionId,ColorId,ImageFile")] Car car)
+        public IActionResult Create([Bind("Id,Model,Year,Mileage,Description,BrandId,EngineId,TransmissionId,ColorId,ImageFile")] Car car)
         {
             ViewData["BrandId"] = new SelectList(_brandService.FindAll(), "Id", "Name");
             ViewData["EngineId"] = new SelectList(_engineService.FindAll(), "Id", "Name");
@@ -97,7 +97,7 @@ namespace BidWheels.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id, [Bind("Id,Model,Year,BrandId,EngineId,TransmissionId,ColorId,ImageFile")] Car car)
+        public IActionResult Edit(int id, [Bind("Id,Model,Year,Mileage,Description,BrandId,EngineId,TransmissionId,ColorId,ImageFile")] Car car)
         {
             ViewData["BrandId"] = new SelectList(_brandService.FindAll(), "Id", "Name");
             ViewData["EngineId"] = new SelectList(_engineService.FindAll(), "Id", "Name");

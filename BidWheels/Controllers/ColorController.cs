@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BidWheels.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     public class ColorController : Controller
 	{
 		private readonly IColorService _entityService;

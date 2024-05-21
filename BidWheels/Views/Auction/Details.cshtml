@@ -3,6 +3,7 @@
 @{
     ViewData["Title"] = "Auction Details";
 }
+
 @if (TempData["Success"] != null)
 {
     <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -10,6 +11,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>
 }
+
 @if (TempData["Error"] != null)
 {
     <div class="alert alert-danger alert-dismissible fade show" role="alert">
@@ -18,23 +20,45 @@
     </div>
 }
 
-<h1>@Model.Car.Model - Auction Details</h1>
+<h1>@Model.Car.Brand?.Name @Model.Car.Model - @Model.Car.Engine?.Type - @Model.Car.Transmission?.Type - @Model.Car.Engine?.HorsePower HP - @Model.Car.Mileage km</h1>
 
 <div>
     <dl>
-        <dt>Car</dt>
+        <div>
+            <img src="@Url.Content("~/cars/" + Model.Car.ImageFileName)" alt="Car Image" style="max-width: 100%; height: auto;" />
+        </div>
+        <dt>Brand</dt>
+        <dd>@Model.Car.Brand?.Name</dd>
+        <dt>Car Model</dt>
         <dd>@Model.Car.Model</dd>
+        <dt>Year</dt>
+        <dd>@Model.Car.Year</dd>
+        <dt>Mileage</dt>
+        <dd>@Model.Car.Mileage km</dd>
+        <dt>Description</dt>
+        <dd>@Model.Car.Description</dd>
+        <dt>Fuel</dt>
+        <dd>@Model.Car.Engine?.Type</dd>
+        <dt>Engine Size</dt>
+        <dd>@Model.Car.Engine?.Volume cmc</dd>
+        <dt>Power</dt>
+        <dd>@Model.Car.Engine?.HorsePower HP</dd>
+        <dt>Transmission</dt>
+        <dd>@Model.Car.Transmission?.Type @Model.Car.Transmission?.Gears gears</dd>
+        <dt>Color</dt>
+        <dd>@Model.Car.Color?.Name @Model.Car.Color?.Type</dd>
         <dt>Start Time</dt>
         <dd>@Model.StartTime</dd>
         <dt>End Time</dt>
         <dd>@Model.EndTime</dd>
         <dt>Starting Price</dt>
-        <dd>@Model.StartingPrice</dd>
+        <dd>@Model.StartingPrice EUR</dd>
         <dt>Current Bid</dt>
-        <dd>@(Model.CurrentBid.HasValue ? Model.CurrentBid.Value.ToString("C2") : "No bids yet")</dd>
+        <dd>@(Model.CurrentBid.HasValue ? Model.CurrentBid.Value+" EUR" : "No bids yet")</dd>
         <dt>Current Winner</dt>
         <dd>@(Model.CurrentBidderId != null ? Model.CurrentBidderId : "No bids yet")</dd>
     </dl>
+
     <h2>Place a Bid</h2>
     <form asp-action="PlaceBid" method="post">
         <input type="hidden" name="id" value="@Model.Id" />
@@ -44,7 +68,4 @@
         </div>
         <input type="submit" value="Place Bid" class="btn btn-primary" />
     </form>
-
-    <a asp-action="Index">Back to List</a>
 </div>
-

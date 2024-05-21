@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BidWheels.Controllers
 {
-    [Authorize(Roles = "Admin")]
+    [Authorize]
     public class EngineController : Controller
 	{
 		private readonly IEngineService _entityService;

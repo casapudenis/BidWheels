@@ -1,4 +1,6 @@
-﻿@{
+﻿@model BidWheels.ViewModels.AuctionSearchResultsViewModel
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -8,8 +10,73 @@
 
 @if (TempData["SuccessMessage"] != null)
 {
-	<div class="alert alert-success alert-dismissible fade show" role="alert">
-		<strong>@TempData["SuccessMessage"]</strong>
-		<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
-	</div>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>@TempData["SuccessMessage"]</strong>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<form asp-action="Search" method="post" class="mb-4">
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Brand" class="form-label">Brand</label>
+            <input asp-for="SearchViewModel.Brand" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Model" class="form-label">Model</label>
+            <input asp-for="SearchViewModel.Model" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Fuel" class="form-label">Fuel</label>
+            <input asp-for="SearchViewModel.Fuel" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Transmission" class="form-label">Transmission</label>
+            <input asp-for="SearchViewModel.Transmission" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Mileage" class="form-label">Mileage</label>
+            <input asp-for="SearchViewModel.Mileage" class="form-control" />
+        </div>
+        <div class="col-md-4 mb-3">
+            <label asp-for="SearchViewModel.Price" class="form-label">Price</label>
+            <input asp-for="SearchViewModel.Price" class="form-control" />
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+@if (Model?.Results != null && Model.Results.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Brand</th>
+                <th>Model</th>
+                <th>Fuel</th>
+                <th>Transmission</th>
+                <th>Mileage</th>
+                <th>Starting Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var auction in Model.Results)
+            {
+                <tr>
+                    <td><img src="@Url.Content("~/cars/" + auction.Car.ImageFileName)" alt="Car Image" class="img-thumbnail" style="max-width: 150px; height: auto;" /></td>
+                    <td>@auction.Car.Brand.Name</td>
+                    <td>@auction.Car.Model</td>
+                    <td>@auction.Car.Engine.Type</td>
+                    <td>@auction.Car.Transmission.Type</td>
+                    <td>@auction.Car.Mileage</td>
+                    <td>@auction.StartingPrice EUR</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No auctions found.</p>
 }
