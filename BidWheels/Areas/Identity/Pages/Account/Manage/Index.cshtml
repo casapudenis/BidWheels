@@ -8,5 +8,14 @@
 <h3>@ViewData["Title"]</h3>
 <partial name="_StatusMessage" for="StatusMessage" />
 <div>
-	Email: @Model.User.Identity.Name
+	Name: @Model.user.Name
+</div>
+<div>
+	Email: @Model.user.Email
+</div>
+<div>
+	Address: @Model.user.Address
+</div>
+<div>
+	Phone Number: @Model.user.PhoneNumber
 </div>

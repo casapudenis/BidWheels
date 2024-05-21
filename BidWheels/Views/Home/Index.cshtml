@@ -19,28 +19,25 @@
 <form asp-action="Search" method="post" class="mb-4">
     <div class="row">
         <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Brand" class="form-label">Brand</label>
-            <input asp-for="SearchViewModel.Brand" class="form-control" />
+            <label for="brand" class="form-label">Brand</label>
+            <select id="brand" name="brand" class="form-select">
+                <option value="Audi">Audi</option>
+                <option value="BMW">BMW</option>
+            </select>
         </div>
         <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Model" class="form-label">Model</label>
-            <input asp-for="SearchViewModel.Model" class="form-control" />
+            <label for="fuel" class="form-label">Fuel</label>
+            <select id="fuel" name="fuel" class="form-select">
+                <option value="Diesel">Diesel</option>
+                <option value="Petrol">Petrol</option>
+            </select>
         </div>
         <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Fuel" class="form-label">Fuel</label>
-            <input asp-for="SearchViewModel.Fuel" class="form-control" />
-        </div>
-        <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Transmission" class="form-label">Transmission</label>
-            <input asp-for="SearchViewModel.Transmission" class="form-control" />
-        </div>
-        <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Mileage" class="form-label">Mileage</label>
-            <input asp-for="SearchViewModel.Mileage" class="form-control" />
-        </div>
-        <div class="col-md-4 mb-3">
-            <label asp-for="SearchViewModel.Price" class="form-label">Price</label>
-            <input asp-for="SearchViewModel.Price" class="form-control" />
+            <label for="transmission" class="form-label">Transmission</label>
+            <select id="transmission" name="transmission" class="form-select">
+                <option value="Automatic">Automatic</option>
+                <option value="Manual">Manual</option>
+            </select>
         </div>
     </div>
     <button type="submit" class="btn btn-primary">Search</button>
@@ -75,8 +72,4 @@
             }
         </tbody>
     </table>
-}
-else
-{
-    <p>No auctions found.</p>
 }

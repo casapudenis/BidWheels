@@ -5,7 +5,7 @@
 }
 
 <h1>Auctions</h1>
-@if (User.IsInRole("Admin"))
+@if (User.IsInRole("admin"))
 {
     <p>
         <a asp-action="Create" class="btn btn-primary">Create New Auction</a>
@@ -44,12 +44,12 @@
                         @Html.DisplayFor(modelItem => item.StartingPrice)
                     } EUR</td>
                 <td>
-                    @if (User.IsInRole("Admin"))
+                    @if (User.IsInRole("admin"))
                     {
                         <a asp-action="Edit" asp-route-id="@item.Id">Edit</a>
                     }
                     <a asp-action="Details" asp-route-id="@item.Id">Details</a>
-                    @if (User.IsInRole("Admin"))
+                    @if (User.IsInRole("admin"))
                     {
                         <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
                     }
