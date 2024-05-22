@@ -31,7 +31,7 @@
                     <td>@auction.StartingPrice EUR</td>
                     <td>@(auction.CurrentBid.HasValue ? auction.CurrentBid.Value+" EUR" : "No bids yet")</td>
                     <td>YOU</td>
-                    <td><a asp-action="Details" asp-route-id="@auction.Id">Details</a></td>
+                    <td><a class="btn btn-primary btn-sm" asp-action="Details" asp-route-id="@auction.Id">Details</a></td>
                 </tr>
             }
         </tbody>

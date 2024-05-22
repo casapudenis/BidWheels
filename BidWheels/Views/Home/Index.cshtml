@@ -55,6 +55,7 @@
                 <th>Transmission</th>
                 <th>Mileage</th>
                 <th>Starting Price</th>
+                <th>Details</th>
             </tr>
         </thead>
         <tbody>
@@ -66,8 +67,11 @@
                     <td>@auction.Car.Model</td>
                     <td>@auction.Car.Engine.Type</td>
                     <td>@auction.Car.Transmission.Type</td>
-                    <td>@auction.Car.Mileage</td>
+                    <td>@auction.Car.Mileage km</td>
                     <td>@auction.StartingPrice EUR</td>
+                    <td>
+                        <a asp-controller="Auction" asp-action="Details" asp-route-id="@auction.Id" class="btn btn-primary">Details</a>
+                    </td>
                 </tr>
             }
         </tbody>

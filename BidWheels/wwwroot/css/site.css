@@ -48,3 +48,25 @@ body {
 .navbar-toggler {
     padding: 4px 5px; /* Dimensiuni reduse pentru butoane */
 }
+
+.container {
+    background-color: rgba(0, 0, 0, 0.8); /* Fundal semi-transparent negru */
+    color: #fff; /* Text alb */
+    padding: 20px; /* Spațiere internă */
+    border-radius: 10px; /* Colțuri curbate */
+}
+
+/* Stiluri suplimentare pentru a seta culoarea textului alb în tabel și alte elemente */
+h1, h2, h3, h4, h5, h6, p, a, span, div, table, th, td, .btn {
+    color: #fff !important; /* Text alb */
+}
+
+    /* Asigură-te că link-urile din tabel au culoarea albă */
+    table a {
+        color: #fff;
+    }
+
+/* Asigură-te că butoanele din tabel au textul alb */
+.btn {
+    color: #fff !important;
+}
