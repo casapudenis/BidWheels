@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace BidWheels.Controllers
 {
-    [Authorize]
+    [Authorize(Roles = "admin")]
     public class CarController : Controller
     {
         private readonly ICarService _carService;

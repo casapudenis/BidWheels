@@ -23,8 +23,8 @@ namespace BidWheels.Controllers
 		{
 			return View(_auctionService.FindAll());
 		}
-
-		public IActionResult Create()
+        [Authorize(Roles = "admin")]
+        public IActionResult Create()
 		{
 			ViewData["CarId"] = new SelectList(_carService.FindAll(), "Id", "Model");
 			return View();
@@ -32,7 +32,8 @@ namespace BidWheels.Controllers
 
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public IActionResult Create([Bind("Id,CarId,StartTime,EndTime,StartingPrice")] Auction auction)
+        [Authorize(Roles = "admin")]
+        public IActionResult Create([Bind("Id,CarId,StartTime,EndTime,StartingPrice")] Auction auction)
 		{
 			ViewData["CarId"] = new SelectList(_carService.FindAll(), "Id", "Model");
 
@@ -60,7 +61,8 @@ namespace BidWheels.Controllers
 			return View(auction);
 		}
 
-		public IActionResult Edit(int? id)
+        [Authorize(Roles = "admin")]
+        public IActionResult Edit(int? id)
 		{
 			if (id == null)
 			{
@@ -79,7 +81,8 @@ namespace BidWheels.Controllers
 
 		[HttpPost]
 		[ValidateAntiForgeryToken]
-		public IActionResult Edit(int id, [Bind("Id,CarId,StartTime,EndTime,StartingPrice,CurrentBid,CurrentBidderId")] Auction auction)
+       [Authorize(Roles = "admin")]
+        public IActionResult Edit(int id, [Bind("Id,CarId,StartTime,EndTime,StartingPrice,CurrentBid,CurrentBidderId")] Auction auction)
 		{
 			if (id != auction.Id)
 			{
@@ -96,7 +99,8 @@ namespace BidWheels.Controllers
 			return View(auction);
 		}
 
-		public IActionResult Delete(int? id)
+        [Authorize(Roles = "admin")]
+        public IActionResult Delete(int? id)
 		{
 			if (id == null)
 			{
@@ -114,7 +118,8 @@ namespace BidWheels.Controllers
 
 		[HttpPost, ActionName("Delete")]
 		[ValidateAntiForgeryToken]
-		public IActionResult DeleteConfirmed(int id)
+        [Authorize(Roles = "admin")]
+        public IActionResult DeleteConfirmed(int id)
 		{
 			var auction = _auctionService.FindById(id);
 			if (auction != null)

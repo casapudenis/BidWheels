@@ -1,5 +1,4 @@
-﻿/* Stil pentru întregul corp al paginii */
-body {
+﻿body {
     font-family: 'Roboto', sans-serif;
     background-color: #111;
     color: #fff;
@@ -9,64 +8,123 @@ body {
     background-attachment: fixed;
 }
 
-/* Stiluri pentru butoanele din bara de navigație */
 .navbar-nav .nav-link,
 .navbar-toggler {
-    background-color: #000000; /* Fundal negru */
-    color: #fff; /* Text alb */
-    border: none; /* Eliminarea marginilor */
-    padding: 5px 10px; /* Dimensiuni ale butoanelor */
-    border-radius: 5px; /* Colțuri curbate */
-    cursor: pointer; /* Indicator de cursor */
-    transition: background-color 0.3s ease; /* Tranziție la hover */
-    margin: 0 10px; /* Margini între butoane */
+    background-color: #000000; 
+    color: #fff;
+    border: none; 
+    padding: 5px 10px; 
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 0 10px; 
 }
 
-    /* Efect de hover pentru butoanele din bara de navigație */
     .navbar-nav .nav-link:hover,
     .navbar-toggler:hover .navbar-toggler-icon {
-        background-color: #005588; /* Albastru la hover */
+        background-color: #005588;
     }
 
-    /* Stil pentru butonul activ din bara de navigație */
     .navbar-nav .nav-link.active {
-        background-color: #0077b3; /* Albastru mai deschis pentru butonul activ */
+        background-color: #0077b3;
     }
 
-/* Stil pentru logo */
 .navbar-brand {
-    color: #fff; /* Text alb */
+    color: #fff;
 }
 
-/* Stil pentru textul din bara de navigație */
 .navbar-nav .nav-link {
-    color: #fff; /* Text alb */
+    color: #fff;
 }
 
-/* Ajustare înălțime butoane navbar */
 .navbar-nav .nav-link,
 .navbar-toggler {
-    padding: 4px 5px; /* Dimensiuni reduse pentru butoane */
+    padding: 4px 5px;
 }
 
 .container {
-    background-color: rgba(0, 0, 0, 0.8); /* Fundal semi-transparent negru */
-    color: #fff; /* Text alb */
-    padding: 20px; /* Spațiere internă */
-    border-radius: 10px; /* Colțuri curbate */
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
 }
-
-/* Stiluri suplimentare pentru a seta culoarea textului alb în tabel și alte elemente */
 h1, h2, h3, h4, h5, h6, p, a, span, div, table, th, td, .btn {
-    color: #fff !important; /* Text alb */
+    color: #fff !important;
 }
-
-    /* Asigură-te că link-urile din tabel au culoarea albă */
     table a {
         color: #fff;
     }
 
-/* Asigură-te că butoanele din tabel au textul alb */
 .btn {
     color: #fff !important;
 }
+
+.auction-details-container {
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+    .auction-details-container h1, .auction-details-container h2 {
+        color: #ffc107;
+    }
+
+    .auction-details-container img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        margin-bottom: 20px;
+    }
+
+    .auction-details-container dl dt {
+        font-weight: bold;
+        margin-top: 10px;
+    }
+
+    .auction-details-container dl dd {
+        margin-left: 20px;
+        margin-bottom: 10px;
+    }
+
+    .auction-details-container .form-group {
+        margin-top: 20px;
+    }
+
+    .auction-details-container .btn-primary {
+        background-color: #ffc107;
+        border: none;
+        color: #000;
+        transition: background-color 0.3s ease;
+    }
+
+        .auction-details-container .btn-primary:hover {
+            background-color: #e0a800;
+        }
+
+.card {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    .card h2 {
+        color: #ffc107;
+    }
+
+.card-body {
+    color: #fff;
+}
+
+    .card-body dl dt {
+        font-size: 1.2rem;
+        color: #ffc107;
+    }
+
+    .card-body dl dd {
+        font-size: 1rem;
+        margin-left: 10px;
+    }

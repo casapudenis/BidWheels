@@ -20,52 +20,88 @@
     </div>
 }
 
-<h1>@Model.Car.Brand?.Name @Model.Car.Model - @Model.Car.Engine?.Type - @Model.Car.Transmission?.Type - @Model.Car.Engine?.HorsePower HP - @Model.Car.Mileage km</h1>
-
-<div>
-    <dl>
-        <div>
-            <img src="@Url.Content("~/cars/" + Model.Car.ImageFileName)" alt="Car Image" style="max-width: 100%; height: auto;" />
+<div class="container auction-details-container">
+    <div class="row">
+        <div class="col-md-12 text-center">
+            <h1>@Model.Car.Brand?.Name @Model.Car.Model</h1>
+            <h2>@Model.Car.Engine?.Type - @Model.Car.Transmission?.Type - @Model.Car.Engine?.HorsePower HP - @Model.Car.Mileage km</h2>
         </div>
-        <dt>Brand</dt>
-        <dd>@Model.Car.Brand?.Name</dd>
-        <dt>Car Model</dt>
-        <dd>@Model.Car.Model</dd>
-        <dt>Year</dt>
-        <dd>@Model.Car.Year</dd>
-        <dt>Mileage</dt>
-        <dd>@Model.Car.Mileage km</dd>
-        <dt>Description</dt>
-        <dd>@Model.Car.Description</dd>
-        <dt>Fuel</dt>
-        <dd>@Model.Car.Engine?.Type</dd>
-        <dt>Engine Size</dt>
-        <dd>@Model.Car.Engine?.Volume cmc</dd>
-        <dt>Power</dt>
-        <dd>@Model.Car.Engine?.HorsePower HP</dd>
-        <dt>Transmission</dt>
-        <dd>@Model.Car.Transmission?.Type @Model.Car.Transmission?.Gears gears</dd>
-        <dt>Color</dt>
-        <dd>@Model.Car.Color?.Name @Model.Car.Color?.Type</dd>
-        <dt>Start Time</dt>
-        <dd>@Model.StartTime</dd>
-        <dt>End Time</dt>
-        <dd>@Model.EndTime</dd>
-        <dt>Starting Price</dt>
-        <dd>@Model.StartingPrice EUR</dd>
-        <dt>Current Bid</dt>
-        <dd>@(Model.CurrentBid.HasValue ? Model.CurrentBid.Value+" EUR" : "No bids yet")</dd>
-        <dt>Current Winner</dt>
-        <dd>@(Model.CurrentBidderId != null ? Model.CurrentBidderId : "No bids yet")</dd>
-    </dl>
+    </div>
 
-    <h2>Place a Bid</h2>
-    <form asp-action="PlaceBid" method="post">
-        <input type="hidden" name="id" value="@Model.Id" />
-        <div class="form-group">
-            <label asp-for="CurrentBid" class="control-label">Bid Amount</label>
-            <input asp-for="CurrentBid" class="form-control" name="bidAmount" />
+    <div class="row mb-4">
+        <div class="col text-center">
+            <img src="@Url.Content("~/cars/" + Model.Car.ImageFileName)" alt="Car Image" class="car-image" />
         </div>
-        <input type="submit" value="Place Bid" class="btn btn-primary" />
-    </form>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card details-card">
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-4">Brand</dt>
+                        <dd class="col-sm-8">@Model.Car.Brand?.Name</dd>
+
+                        <dt class="col-sm-4">Car Model</dt>
+                        <dd class="col-sm-8">@Model.Car.Model</dd>
+
+                        <dt class="col-sm-4">Year</dt>
+                        <dd class="col-sm-8">@Model.Car.Year</dd>
+
+                        <dt class="col-sm-4">Mileage</dt>
+                        <dd class="col-sm-8">@Model.Car.Mileage km</dd>
+
+                        <dt class="col-sm-4">Description</dt>
+                        <dd class="col-sm-8">@Model.Car.Description</dd>
+
+                        <dt class="col-sm-4">Fuel</dt>
+                        <dd class="col-sm-8">@Model.Car.Engine?.Type</dd>
+
+                        <dt class="col-sm-4">Engine Size</dt>
+                        <dd class="col-sm-8">@Model.Car.Engine?.Volume cmc</dd>
+
+                        <dt class="col-sm-4">Power</dt>
+                        <dd class="col-sm-8">@Model.Car.Engine?.HorsePower HP</dd>
+
+                        <dt class="col-sm-4">Transmission</dt>
+                        <dd class="col-sm-8">@Model.Car.Transmission?.Type @Model.Car.Transmission?.Gears gears</dd>
+
+                        <dt class="col-sm-4">Color</dt>
+                        <dd class="col-sm-8">@Model.Car.Color?.Name @Model.Car.Color?.Type</dd>
+                    </dl>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bid-card">
+                <div class="card-body">
+                    <dt class="col-sm-4">Start Time</dt>
+                    <dd class="col-sm-8">@Model.StartTime</dd>
+
+                    <dt class="col-sm-4">End Time</dt>
+                    <dd class="col-sm-8">@Model.EndTime</dd>
+
+                    <dt class="col-sm-4">Starting Price</dt>
+                    <dd class="col-sm-8">@Model.StartingPrice EUR</dd>
+
+                    <dt class="col-sm-4">Current Winner</dt>
+                    <dd class="col-sm-8">@(@Model.CurrentBidderId != null ? Model.CurrentBidderId : "No bids yet")</dd>
+
+                    <dt class="col-sm-4">Current Bid</dt>
+                    <dd class="col-sm-8">@(@Model.CurrentBid.HasValue ? Model.CurrentBid.Value + " EUR" : "No bids yet")</dd>
+
+                    <form asp-action="PlaceBid" method="post">
+                        <input type="hidden" name="id" value="@Model.Id" />
+                        <div class="form-group">
+                            <label asp-for="CurrentBid" class="control-label">Bid Amount</label>
+                            <input asp-for="CurrentBid" class="form-control" name="bidAmount" />
+                        </div>
+                        <div class="text-center">
+                            <input type="submit" value="Place Bid" class="btn btn-primary mt-3" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
